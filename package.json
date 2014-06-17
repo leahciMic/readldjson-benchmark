@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zlib": "^1.0.5",
-    "q": "^1.0.1",
     "async": "^0.9.0",
+    "bluebird": "^2.1.2",
     "byline": "^4.1.1"
   }
 }
